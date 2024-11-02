@@ -8,6 +8,12 @@ https://github.com/quqxui/Awesome-LLM4IE-Papers<br>
 #### 延申
 - 中文预训练模型综述 <br>
 https://www.jsjkx.com/CN/10.11896/jsjkx.211200018
+- A survey on Named Entity Recognition— datasets,tools,andmethodologies<br>
+SCI 2023<br>
+https://www.sciencedirect.com/science/article/pii/S2949719123000146
+- Deep learning for named entity recognition: a survey<br>
+2024<br>
+https://link.springer.com/article/10.1007/s00521-024-09646-6
 - 中文预训练模型下载地址<br>
 https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 - 中文词向量下载地址<br>
@@ -71,6 +77,16 @@ https://arxiv.org/pdf/2403.15800.pdf<br>
 2024 文言文实体识别<br>
 https://arxiv.org/pdf/2403.15088.pdf<br>
 https://github.com/tangxuemei1995/CHisIEC<br>
+- DAE-NER: Dual-channel attention enhancement for Chinese named entity recognition<br>
+2024 双通道注意力增强的中文命名实体识别<br>
+https://www.sciencedirect.com/science/article/pii/S0885230823001006
+- MVT: Chinese NER Using Multi-View Transformer<br>
+IEEE 2024 多视角transformer的中文命名实体识别<br>
+https://ieeexplore.ieee.org/abstract/document/10592817<br>
+https://github.com/yongzhuo/MVT<br>
+- MCL-NER: Cross-Lingual Named Entity Recognition via Multi-View Contrastive Learning<br>
+AAAI 2024 跨语言命名实体识别
+https://ojs.aaai.org/index.php/AAAI/article/view/29843
 - Attack Named Entity Recognition by Entity Boundary Interference<br>
 2023<br>
 https://arxiv.org/pdf/2305.05253v1.pdf<br>
@@ -85,6 +101,14 @@ https://github.com/baudzhou/WYWEB<br>
 AAAI 2023<br>
 https://arxiv.org/pdf/2211.14838.pdf<br>
 https://github.com/GeorgeLuImmortal/PUnifiedNER<br>
+- Empirical Study of Zero-Shot NER with ChatGPT<br>
+EMNLP 2023 
+https://arxiv.org/abs/2310.10035
+https://github.com/Emma1066/Zero-Shot-NER-with-ChatGPT
+- MCL: Multi-Granularity Contrastive Learning Framework for Chinese NER<br>
+AAAI 2023 多粒度对比学习框架
+https://ojs.aaai.org/index.php/AAAI/article/view/26640
+https://github.com/zs50910/MCL
 - END-TO-END ENTITY DETECTION WITH PROPOSER ANDREGRESSOR<br>
 借鉴目标检测的思想<br>
 2022<br>
@@ -328,6 +352,27 @@ https://github.com/CPF-NLPR/AT4ChineseNER <br>
 # 非中文模型
 
 没有针对于中文的实验，但是思想可以借鉴的： <br>
+- CNER: Concept and Named Entity Recognition<br>
+NAACL 2024 将名词概念融入命名实体识别
+https://aclanthology.org/2024.naacl-long.461/
+https://github.com/Babelscape/cner
+- Low-Resource Named Entity Recognition with Cross-Lingual, Character-Level Neural Conditional Random Fields<br>
+2024 针对低资源的命名实体识别<br>
+https://arxiv.org/abs/2404.09383
+- Cross-domain Named Entity Recognition via Graph Matching<br>
+ACL 2024 跨领域命名实体识别<br>
+https://arxiv.org/abs/2408.00981
+- TKDP: Threefold Knowledge-Enriched Deep Prompt Tuning for Few-Shot Named Entity Recognition<br>
+IEEE 2024 基于三重知识增强的少样本命名实体识别<br>
+https://arxiv.org/abs/2404.09383<br>
+solkx/tkdp
+- Few-shot nested named entity recognition<br>
+2024 少样本嵌套命名实体识别
+https://www.sciencedirect.com/science/article/pii/S095070512400323X
+- Multi-granularity cross-modal representation learning for named entity recognition on social media<br>
+SCI 2024 用于社交媒体的多模态命名实体识别
+https://www.sciencedirect.com/science/article/pii/S0306457323002832
+https://github.com/LiuPeiP-CS/IIE4MNER
 - DiffusionNER: Boundary Diffusion for Named Entity Recognition<br>
 2023<br>
 https://arxiv.org/pdf/2305.13298v1.pdf<br>
@@ -371,6 +416,24 @@ https://arxiv.org/pdf/2301.03282.pdf<br>
 - MULTI-TASK TRANSFORMER WITH RELATION-ATTENTION AND TYPE-ATTENTION FOR NAMED ENTITY RECOGNITION<br>
 2023<br>
 https://arxiv.org/pdf/2303.10870v1.pdf<br>
+- NAG-NER: a Unified Non-Autoregressive Generation Framework for Various NER Tasks<br>
+2023<br>
+https://aclanthology.org/2023.acl-industry.65/<br>
+- A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER<br>
+ACL 2023 少样本命名实体识别<br>
+https://dl.acm.org/doi/abs/10.1145/3583780.3614766
+https://github.com/dongguanting/MSDP-Fewshot-NER
+- A Simple Yet Effective Subsequence-Enhanced Approach for Cross-Domain NER<br>
+2023 跨领域命名实体识别<br>
+https://ojs.aaai.org/index.php/AAAI/article/view/26515<br>
+- One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER<br>
+2023 通用领域命名实体识别<br>
+https://arxiv.org/abs/2301.10410
+https://github.com/zjunlp/DeepKE/tree/main/example/ner/cross
+- Split-NER: Named Entity Recognition via Two Question-Answering-based Classifications<br>
+ACL 2023 基于回答的命名实体识别<br>
+https://arxiv.org/abs/2310.19942
+https://github.com/c3sr/split-ner
 - DEEPSTRUCT: Pretraining of Language Models for Structure Prediction<br>
 通用信息抽取<br>
 ACL 2022<br>
