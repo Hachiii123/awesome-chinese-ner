@@ -364,7 +364,7 @@ ACL 2024 跨领域命名实体识别<br>
 https://arxiv.org/abs/2408.00981
 - TKDP: Threefold Knowledge-Enriched Deep Prompt Tuning for Few-Shot Named Entity Recognition<br>
 IEEE 2024 基于三重知识增强的少样本命名实体识别<br>
-https://arxiv.org/abs/2404.09383<br>
+https://arxiv.org/abs/2306.03974<br>
 solkx/tkdp
 - Few-shot nested named entity recognition<br>
 2024 少样本嵌套命名实体识别
